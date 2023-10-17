@@ -15,5 +15,5 @@
     "strictNullChecks": true,
     "target": "es2019"
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts", "**/*.tsx"]
 }

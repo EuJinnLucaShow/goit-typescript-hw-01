@@ -1,0 +1,15 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "В рамках **домашнього завдання** до модуля 1 потрібно встановити та налаштувати середовище розробки. Усі детальні кроки описані в темах 3-5.",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.3.3"
+  }
+}
